@@ -66,7 +66,11 @@ cd online-retail-analysis
 
 pip install -r requirements.txt
 
-### 3. Run the Application
+### 3. Add a processed folder
+
+In the data folder make a new folder named 'processed'
+
+### 4. Run the Application
 
 streamlit run app.py
 
