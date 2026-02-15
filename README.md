@@ -58,7 +58,7 @@ The system transforms raw transactional records into business-oriented metrics t
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/online-retail-analysis.git 
+git clone https://github.com/botash3d/Retail_Sales_Analysis.git 
 
 cd online-retail-analysis
 
