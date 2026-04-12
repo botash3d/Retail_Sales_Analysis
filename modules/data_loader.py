@@ -16,5 +16,4 @@ def load_processed_data():
     df=load_data()
     total_revenue(df)
     invoice_month(df)
-    df.to_csv(os.path.join(PROCESSED_DATA_DIR, "online_retail_II.csv"), index=False)
     return df
